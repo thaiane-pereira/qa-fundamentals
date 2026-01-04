@@ -18,8 +18,9 @@ Testes funcionais aplicados à funcionalidade de login de uma aplicação web.
 - Teste Baseado em Requisitos
 
 ## Estrutura do repositório
-- test-cases: casos de teste documentados
 - bug-reports: bugs encontrados durante a execução dos testes
+- test-cases: casos de teste documentados
+- test-execution: testes executados baseados nos casos de testes escritos
 
 ## Objetivo
 Demonstrar raciocínio analítico, organização e boas práticas em QA.
