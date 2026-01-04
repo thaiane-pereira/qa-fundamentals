@@ -101,12 +101,12 @@ Usuário cadastrado no sistema
 Passos:
 
 1. Acessar a página de login
-2. Informar apenas espaços em branco no campo Usuário
-3. Informar apenas espaços em branco no campo Senha
+2. Informar Usuário com espaço em branco no início/final do campo
+3. Informar Senha com espaço em branco no início/final do campo
 4. Clicar no botão "Entrar"
 
 Resultado esperado:
-O login não deve ser realizado e o sistema deve tratar os campos como vazios, exibindo mensagens de validação.
+O sistema deve ignorar os espaços inseridos nos campos e o deve ser realizado.
 
 ### CT-09 – Tentativa de login com username com tamanho acima do limite permitido
 
