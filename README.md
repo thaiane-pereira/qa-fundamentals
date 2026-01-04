@@ -6,13 +6,16 @@ Este repositório contém artefatos básicos de Quality Assurance, com foco em t
 Testes funcionais aplicados à funcionalidade de login de uma aplicação web.
 
 ## Tipos de teste aplicados
-- Teste funcional
-- Teste negativo
-- Teste de validação de campos
+- Testes Funcionais
+- Testes de Validação de Campos
+- Testes de Usabilidade
+- Testes de Segurança (básicos)
 
 ## Técnicas de teste utilizadas
-- Partição de equivalência
-- Análise de valor limite
+- Particionamento de Equivalência
+- Análise de Valores Limite
+- Teste de Cenários Negativos
+- Teste Baseado em Requisitos
 
 ## Estrutura do repositório
 - test-cases: casos de teste documentados
