@@ -101,8 +101,8 @@ Usuário cadastrado no sistema
 Passos:
 
 1. Acessar a página de login
-2. Informar Usuário com espaço em branco no início/final do campo
-3. Informar Senha com espaço em branco no início/final do campo
+2. Informar Usuário válido com espaço em branco no início/final do campo
+3. Informar Senha válida com espaço em branco no início/final do campo
 4. Clicar no botão "Entrar"
 
 Resultado esperado:
